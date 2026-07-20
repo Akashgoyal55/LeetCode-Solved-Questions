@@ -56,4 +56,12 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
