@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,10 +21,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
@@ -49,6 +52,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -63,6 +67,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -72,4 +77,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0007-reverse-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
