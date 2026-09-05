@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
