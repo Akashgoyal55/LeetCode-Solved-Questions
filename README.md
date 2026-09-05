@@ -72,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,4 +90,12 @@
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0097-interleaving-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Akashgoyal55/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
